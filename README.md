@@ -79,7 +79,7 @@ README.md                 # Project documentation
 
 ## Author
 
-Rabin Mishra
-M.S. Economics
+Rabin Mishra<br/>
+M.S. Economics<br/>
 Texas A&M University
 
