@@ -5,7 +5,7 @@ This project examines whether Bitcoin and other cryptocurrencies improve portfol
 
 ## Overview
 
-The analysis uses daily financial data from 2023 to 2025 for a diversified set of assets, including:
+The analysis uses daily financial data from 2015 to 2025 for a diversified set of assets, including:
 
 - Bitcoin, Ethereum, Dogecoin, and XRP
 - Gold
